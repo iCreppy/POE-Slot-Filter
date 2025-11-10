@@ -1,4 +1,4 @@
-LINK AL FILTRO ONLINE: https://www.pathofexile.com/item-filter/xjgMdZh6
+LINK AL FILTRO ONLINE: https://www.pathofexile.com/item-filter/knzjq2FN
 FILTRO ACTUALIZADO A LA 3.27
 
 NECESITAS LOS SONIDOS PARA USAR ESTE FILTRO
