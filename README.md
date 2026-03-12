@@ -1,5 +1,5 @@
-LINK AL FILTRO ONLINE: https://www.pathofexile.com/item-filter/knzjq2FN
-FILTRO ACTUALIZADO A LA 3.27
+LINK AL FILTRO ONLINE: https://www.pathofexile.com/item-filter/r1vpYpCX
+FILTRO ACTUALIZADO A LA 3.28
 
 NECESITAS LOS SONIDOS PARA USAR ESTE FILTRO
 
