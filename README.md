@@ -4,7 +4,8 @@ FILTRO ACTUALIZADO A LA 3.29.2
 NECESITAS LOS SONIDOS PARA USAR ESTE FILTRO
 
 Para descargar los sonidos, hacen click en SlotMachineSounds.zip luego ARRIBA DERECHA sale "..." y ponen descargar, los sonidos los ingresan a la carpeta de Filtros del POE (NO EN FILTROS ONLINE, FUERA DE ESA), y le dan "follow" al filtro online.
+Para su seguridad, el zip que se descarga no se ha modificado hace más de un año, y SOLO contiene los sonidos.
 
-Este filtro utiliza la base de FUBGUN VERY STRICT, por tanto, NO SE OCULTA NADA fuera de lo establecido en el filtro. No me hago responsable si el watón del Fubgun oculta weas de 50c, peleenle a él.
+Este filtro utiliza la base de FUBGUN ENDGAME VERY STRICT, por tanto, NO SE OCULTA NADA fuera de lo establecido en el filtro. No me hago responsable si el watón del Fubgun oculta weas de 50c, peleenle a él.
 
 YA CHAO CHAO uwu
